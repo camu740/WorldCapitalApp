@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "862618163962",
+    "project_id": "worldcapitaldb",
+    "storage_bucket": "worldcapitaldb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862618163962:android:60de22fac51467a3e8c743",
+        "android_client_info": {
+          "package_name": "com.camugames.world_capitals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862618163962-v88p08p4nrjvqoipkuvklct7rgpoej80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.camugames.world_capitals",
+            "certificate_hash": "c68d0dda8a7b199a5fbbaed84f167dced67df5d7"
+          }
+        },
+        {
+          "client_id": "862618163962-jcbapfqe1ahujvua6k4hdirtjftctir7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzbZZQ_snKE17R1wIFJE0Ze2WJkIvZuOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862618163962-7hr0ta563gi3e9mih3ig8vobkvk7k4u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
